@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jmh_performance/pom.xml" />
+        <option value="$PROJECT_DIR$/case_java7/pom.xml" />
+        <option value="$PROJECT_DIR$/case_java8/pom.xml" />
+        <option value="$PROJECT_DIR$/case_monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/case_thirdpart/pom.xml" />
+        <option value="$PROJECT_DIR$/case_tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/jcstress_ordering/pom.xml" />
+        <option value="$PROJECT_DIR$/jmh_eliminate_locks/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
